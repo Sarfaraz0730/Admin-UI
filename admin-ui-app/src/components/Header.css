@@ -1,0 +1,33 @@
+.dashboard{
+    height: 40px;
+    max-width: 100%;
+    background: royalblue;
+}
+.adminpage{
+    margin-left: 5%;
+    color: #fff;
+    font-family: sans-serif;
+    margin-top: 5px;
+    padding: 5px;
+}
+.inputbox{
+    border: none;
+    background-color: #cccccc;
+    margin-left: 30%;
+    margin-top: 10px;
+    height: 25px;
+    margin-right: 10px;
+    border: 1 px solid royalblue;
+   
+
+}
+.searchButton{
+    margin-top: 10px;
+    background: royalblue;
+    border-radius: 5px;
+    border: none;
+    border: 1 px solid royalblue;
+    height: 30px;
+    width: 60px;
+    color: #fff;
+}
